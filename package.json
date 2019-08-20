@@ -1,0 +1,13 @@
+{
+	"name": "uzip",
+	"version": "1.0.0",
+	"license": "MIT",
+	"description": "Simple ZIPing library for JavaScript",
+	"main": "src/main.js",
+	"repository": "https://github.com/photopea/UZIP.js",
+	"author": "photopea",
+	"devDependencies": {
+		"rollup": "^1.19.4",
+		"rollup-plugin-terser": "^5.1.1"
+	}
+}
